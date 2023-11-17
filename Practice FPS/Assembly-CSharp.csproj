@@ -65,9 +65,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Tests\Movement.cs" />
-    <Compile Include="Assets\Scripts\First Person\PlayerMovement.cs" />
-    <Compile Include="Assets\Scripts\First Person\FirstPersonLook.cs" />
     <Compile Include="Assets\Scripts\Tests\MovingPlatform.cs" />
+    <Compile Include="Assets\Scripts\FPS\CameraController.cs" />
+    <Compile Include="Assets\Scripts\FPS\PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
